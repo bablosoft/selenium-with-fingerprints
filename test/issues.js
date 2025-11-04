@@ -24,9 +24,9 @@ describe('plugin', () => {
   });
 
   it('should correctly open a new window in headless mode (puppeteer-with-fingerprints#117)', async () => {
-    await driver.get('https://www.producthunt.com/products/etsy-geeks');
+    await driver.get('https://bablosoft.com/shop/BrowserAutomationStudio');
 
-    const $link = await driver.findElement(By.css("a[href*='etsygeeks.org']"));
+    const $link = await driver.findElement(By.css("a[href*='community.bablosoft.com']"));
 
     await $link.click();
     await setTimeout(5000);
