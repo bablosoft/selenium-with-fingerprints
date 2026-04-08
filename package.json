@@ -7,7 +7,7 @@
     "url": "git+https://github.com/CheshireCaat/selenium-with-fingerprints.git"
   },
   "author": "CheshireCaat",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CheshireCaat/selenium-with-fingerprints/issues",
@@ -52,15 +52,15 @@
     "src"
   ],
   "dependencies": {
-    "browser-with-fingerprints": "2.3.4"
+    "browser-with-fingerprints": "2.3.5"
   },
   "devDependencies": {
     "@cheshire-caat/prettier-config": "^1.0.0",
-    "chromedriver": "^142.0.0",
-    "dotenv": "^17.2.3",
-    "mocha": "^11.7.4",
-    "prettier": "^3.6.2",
-    "selenium-webdriver": "^4.38.0"
+    "chromedriver": "^146.0.6",
+    "dotenv": "^17.4.1",
+    "mocha": "^11.7.5",
+    "prettier": "^3.8.1",
+    "selenium-webdriver": "^4.41.0"
   },
   "peerDependencies": {
     "selenium-webdriver": ">=4.5.0"
