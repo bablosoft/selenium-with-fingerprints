@@ -1,17 +1,17 @@
 {
   "name": "selenium-with-fingerprints",
   "description": "A plugin that improves the stealth of the selenium library using fingerprints",
-  "homepage": "https://github.com/CheshireCaat/selenium-with-fingerprints#readme",
+  "homepage": "https://github.com/bablosoft/selenium-with-fingerprints#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CheshireCaat/selenium-with-fingerprints.git"
+    "url": "git+https://github.com/bablosoft/selenium-with-fingerprints.git"
   },
-  "author": "CheshireCaat",
+  "author": "bablosoft",
   "version": "2.3.5",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CheshireCaat/selenium-with-fingerprints/issues",
-    "email": "cheshirecat902@gmail.com"
+    "url": "https://github.com/bablosoft/selenium-with-fingerprints/issues",
+    "email": "mail.to.twaego@gmail.com"
   },
   "type": "commonjs",
   "main": "./src/index.js",
