@@ -7,7 +7,7 @@
     "url": "git+https://github.com/bablosoft/selenium-with-fingerprints.git"
   },
   "author": "bablosoft",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bablosoft/selenium-with-fingerprints/issues",
@@ -52,15 +52,15 @@
     "src"
   ],
   "dependencies": {
-    "browser-with-fingerprints": "2.3.5"
+    "browser-with-fingerprints": "2.3.6"
   },
   "devDependencies": {
     "@cheshire-caat/prettier-config": "^1.0.0",
-    "chromedriver": "^146.0.6",
-    "dotenv": "^17.4.1",
-    "mocha": "^11.7.5",
-    "prettier": "^3.8.1",
-    "selenium-webdriver": "^4.41.0"
+    "chromedriver": "^153.0.3",
+    "dotenv": "^18.0.2",
+    "mocha": "^12.0.2",
+    "prettier": "^3.9.8",
+    "selenium-webdriver": "^4.49.0"
   },
   "peerDependencies": {
     "selenium-webdriver": ">=4.5.0"

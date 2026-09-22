@@ -13,7 +13,7 @@ In general, only **four** basic steps are required, see the example below (code 
 
 https://user-images.githubusercontent.com/30115373/198843827-f20b628f-49f2-4d13-8ee4-1c72ae490f2e.mp4
 
-Current supported engine version - **146.0.7680.80**.
+Current supported engine version - **153.0.8010.37**.
 
 **IMPORTANT NOTE:** plugin only work on **Windows** operating system, it cannot be installed and used on **Linux**, **macOS** and other systems!
 
@@ -65,7 +65,7 @@ You can manually install the desired version of the driver, add the path to it i
 But it's best and safer to use a ready-made [npm](https://www.npmjs.com/package/chromedriver) package:
 
 ```bash
-npm i chromedriver@132.0.1
+npm i chromedriver@153.0.3
 ```
 
 If you're not sure which version to install, use the current supported engine version number.
@@ -864,4 +864,4 @@ You can define it in any way convenient for you, but by default variables are re
 
 ## License
 
-Copyright © 2025, [bablosoft](https://github.com/bablosoft). Released under the [MIT](LICENSE.md) license.
+Copyright © 2026, [bablosoft](https://github.com/bablosoft). Released under the [MIT](LICENSE.md) license.
